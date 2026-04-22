@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "my first repository",
+  "main": "dist/hello_world.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/hello_world.js",
+    "test": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}

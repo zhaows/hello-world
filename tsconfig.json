@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "es2019",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "hello_world.ts"
+  ]
+}
